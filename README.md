@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 * Linkedin: https://www.linkedin.com/in/thiago-borges-duarte-b418a828/
-* FreeCodeCamp: 
+* FreeCodeCamp: https://www.freecodecamp.org/fcc96477a80-ccf6-4a71-a9d9-d834afb049ef
 
 <!--
 **thiagobduarte/thiagobduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
