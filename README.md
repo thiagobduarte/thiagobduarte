@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* Linkedin:
+* Linkedin: https://www.linkedin.com/in/thiago-borges-duarte-b418a828/
 * FreeCodeCamp: 
 
 <!--
