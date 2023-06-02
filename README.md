@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+* Linkedin:
+* Free Code Camp: 
+
 <!--
 **thiagobduarte/thiagobduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
